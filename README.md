@@ -4,3 +4,4 @@ Here, we have 3-dimensional data array `CameraData.npy` (provided upon request) 
 
 So, the overall purpose is to reconstruct confidently both images using the Bayes approach and EM-algorithm.
 
+The proposed model description and its implementation are inside.
